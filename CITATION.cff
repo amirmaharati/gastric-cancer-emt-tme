@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Gastric Cancer EMT–TME"
+type: software
+
+authors:
+  - family-names: "Maharati"
+    given-names: "Amir"
+
+abstract: >
+  Reproducible single-cell RNA-seq analysis of epithelial–mesenchymal
+  transition (EMT) and tumor-microenvironment (TME) signaling in gastric
+  cancer using GSE183904, followed by lncRNA prioritization and TCGA-STAD
+  overall-survival validation.
+
+keywords:
+  - gastric cancer
+  - single-cell RNA-seq
+  - scRNA-seq
+  - epithelial-mesenchymal transition
+  - EMT
+  - tumor microenvironment
+  - TME
+  - GSE183904
+  - NicheNet
+  - Monocle3
+  - lncRNA
+  - TCGA-STAD
+  - survival analysis
+
+license: MIT
+version: "1.0.0"
+
+repository-code: "https://github.com/amirmaharati/gastric-cancer-emt-tme"
+
+preferred-citation:
+  type: software
+  title: "Gastric Cancer EMT–TME"
+  authors:
+    - family-names: "Maharati"
+      given-names: "Amir"
+  version: "1.0.0"
+  repository-code: "https://github.com/amirmaharati/gastric-cancer-emt-tme"
